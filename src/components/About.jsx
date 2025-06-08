@@ -8,6 +8,11 @@ const About = () => {
             <div className='mt-5 text-center font-bold uppercase text-4xl md:text-6rem'>
                 Discover the world's <br /> largest shared adventure
             </div>
+            <div>
+              <p>
+                
+              </p>
+            </div>
         </div>
     </div>
   )
